@@ -1,0 +1,4 @@
+State,State Abbreviation,State Population,Positive,Negative,Total_Test_Results,Hospitalized,Recovered,Death,Date_Checked
+Colorado,CO,5531141.0,11262,41062,52324,2237.0,0.0,552.0,2020-04-24T02:39:00Z
+Michigan,MI,9957488.0,35291,93030,128321,0.0,3237.0,2977.0,2020-04-23T20:41:00Z
+Minnesota,MN,5527358.0,2942,48606,51548,712.0,1536.0,200.0,2020-04-23T18:40:00Z
