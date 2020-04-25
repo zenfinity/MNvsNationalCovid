@@ -1,4 +1,0 @@
-FIPS,County,State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Abbreviation,Population
-27053.0,Hennepin,Minnesota,US,2020-04-21 23:30:50,45.00761521,-93.47694895,1013,95,0,918,"Hennepin, Minnesota, US",MN,1235478.0
-27123.0,Ramsey,Minnesota,US,2020-04-21 23:30:50,45.01625271,-93.09872295,215,11,0,204,"Ramsey, Minnesota, US",MN,541493.0
-26163.0,Wayne,Michigan,US,2020-04-21 23:30:50,42.28098405,-83.281255,13912,1148,0,12764,"Wayne, Michigan, US",MI,1761382.0

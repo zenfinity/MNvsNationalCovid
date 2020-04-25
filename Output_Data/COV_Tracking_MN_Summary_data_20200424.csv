@@ -1,2 +1,6 @@
 State,Positive,Negative,Recovered,Date_Checked,Death,Hospitalized,Total_Test_Results
+<<<<<<< Updated upstream
 MN,2942,48606,1536,2020-04-23T18:40:00Z,200,712,51548
+=======
+MN,3185,50602,1594,2020-04-24T21:03:00Z,221,756,53787
+>>>>>>> Stashed changes
