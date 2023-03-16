@@ -3,7 +3,7 @@
 ![MNCovid19a](Images/US_States_PositivesDeaths_notNY.png)
 
 # Story
-COVID-19:  How does the state of Minnesota compare?
+## COVID-19:  How does the state of Minnesota compare?
 I began a bootcamp in March 2020. In an attempt to understand the data being presented hourly it seemed, for our first project my group used Minnesota as a focal point. Contained here is a snapshot of the pandemic in April of that year. Much was still unknown. "Wash your hands" was the prevailing advice from the CDC.
 
 # Comparitive Analysis
