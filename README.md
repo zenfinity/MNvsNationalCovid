@@ -1,9 +1,10 @@
 # Team 6 Project 1 - Minnesota COVID-19 
 
-![MNCovid19a](Images/Screen-Shot-2020-04-07-at-9.02.00-AM.png)
+![MNCovid19a](Images/US_States_PositivesDeaths_notNY.png)
 
 # Story
 COVID-19:  How does the state of Minnesota compare?
+I began a bootcamp in March 2020. In an attempt to understand the data being presented hourly it seemed, for our first project my group used Minnesota as a focal point. Contained here is a snapshot of the pandemic in April of that year. Much was still unknown. "Wash your hands" was the prevailing advice from the CDC.
 
 # Comparitive Analysis
 Looking to understand how the COVID-19 pandemic is impacting the state of Minnesota based on the following criteria: Total Population, Testing, Hospitalization, and Death Rate.
@@ -27,26 +28,7 @@ Looking to understand how the COVID-19 pandemic is impacting the state of Minnes
         comparision of national, state, and county COVID-19 analysis using 2018 estimates.
         https://www.census.gov/
 
-# Project Requirements
-Development Technical Requirements:
-* Use Pandas to clean and format your dataset(s). 
-* Create a Jupyter Notebook describing the data exploration and cleanup process.
-* Create a Jupyter Notebook illustrating the ﬁnal data analysis. 
-* Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data). 
-* Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
-* (Optional) Use at least one API, if you can ﬁnd an API with data pertinent to your primary research questions. 
-* Create a write-up summarizing your major ﬁndings. This should include a heading for each “question” you asked of your data and a short description of your ﬁndings and any relevant plots.
-
-Presentation Requirements:
-* Prepare a formal ten-minute presentation that presents:
-* Questions found interesting and what motivated you to investigate and answer them?
-* Where and how you found the data you used to answer these questions?
-* The data exploration and clean up process accompanied by your Jupyter Notebook.
-* The analysis process accompanied by your Jupyter Notebook.
-* Your conclusions, which should include a numerical summary and visualizations of that summary.
-* The implications of your findings? What do your findings mean?
-
-# Data Visualization Project Tracker
+# Project Responsibility Breakdown
 * Define Title and Objectives. What is your story? (Team)
   * Determine similar State and City/County/Metro Area to compare against (Ian Mac).
   * Just similar pop county, look at County area for density. If none, extrapolation down to county from State totals based on confirmed cases and deaths?
@@ -65,5 +47,3 @@ Presentation Requirements:
 * PowerPoint Presentation and Write Up of conclusions? (Team)
 * Link to Data Visualization Project Tracker: https://docs.google.com/spreadsheets/d/1gb29HR5fH3w32Zrm048jqC98u5iTM9oXEJnK2tX-aSE/edit#gid=2041823604
 
-![MNCovid19a](Images/covid-19.png)
-Copyright
